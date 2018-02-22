@@ -11,7 +11,7 @@ http://openadmin.neuethemes.net/client/html/
 **OpenAdmin** Admin Dashboard comes with lot of ready-to-use components (widgets, forms, etc). It is 100% responsive and easy customizable theme. It gives a possibility to any developer to create modern and quality web app quickly without a hassle.
 
 
-### Available Clients
+## Available Clients
 
 [Free HTML5 Bootstrap4 Admin Dashboard](https://github.com/Neuethemes/OpenAdmin-client-Html)
 
