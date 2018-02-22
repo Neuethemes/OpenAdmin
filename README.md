@@ -3,6 +3,9 @@
 # OpenAdmin
 Free Premium Admin Dashboard Theme.
 
+**See Preview**
+http://openadmin.neuethemes.net/client/html/
+
 **OpenAdmin** is the simple lightweight and fully-featured Multi-framework Admin theme based on latest Bootstrap4, HTML5/CSS3 and uses all it's powerful features.
 
 **OpenAdmin** Admin Dashboard comes with lot of ready-to-use components (widgets, forms, etc). It is 100% responsive and easy customizable theme. It gives a possibility to any developer to create modern and quality web app quickly without a hassle.
@@ -26,10 +29,6 @@ Free Premium Admin Dashboard Theme.
 [Free PHP Admin Dashboard (Coming Soon)](https://github.com/Neuethemes/OpenAdmin-server-PHP)
 
 [Free Python Admin Dashboard (Coming Soon)](https://github.com/Neuethemes/OpenAdmin-server-Python)
-
-
-**Preview**
-http://openadmin.neuethemes.net/client/html/
 
 
 ![OpenAdmin Dashboard](https://neuethemes.net/wp-content/uploads/01-openadmin-screenshot-dashboard-02.jpg "OpenAdmin Dashboard")
