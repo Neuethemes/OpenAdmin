@@ -1,38 +1,37 @@
 ![OpenAdmin Dashboard Banner](https://neuethemes.net/wp-content/uploads/preview-pic-01.jpg "OpenAdmin Banner")
 
 # OpenAdmin
-OpenAdmin - Free Premium Admin Dashboard Theme
+Free Premium Admin Dashboard Theme.
 
-OpenAdmin is the simple lightweight and fully-featured HTML5 admin template based on latest Bootstrap4 framework, HTML5/CSS3 and jQuery and uses all it's powerful features.
+**OpenAdmin** is the simple lightweight and fully-featured Multi-framework Admin theme based on latest Bootstrap4, HTML5/CSS3 and uses all it's powerful features.
 
-OpenAdmin admin dashboard comes with a lot of ready-to-use components (widgets, forms, etc). It is 100% responsive and easy customizable theme. It gives a possibility to any developer to create modern and quality web app quickly without a hassle.
+**OpenAdmin** Admin Dashboard comes with lot of ready-to-use components (widgets, forms, etc). It is 100% responsive and easy customizable theme. It gives a possibility to any developer to create modern and quality web app quickly without a hassle.
 
 
 **Available Clients**
 
-[OpenAdmin-client-HTML](https://github.com/Neuethemes/OpenAdmin-client-Html)
+[Free HTML5 Bootstrap4 Admin Dashboard](https://github.com/Neuethemes/OpenAdmin-client-Html)
 
-[OpenAdmin-client-Angular](https://github.com/Neuethemes/OpenAdmin-client-Angular)
+[Free Angular Admin Dashboard](https://github.com/Neuethemes/OpenAdmin-client-Angular)
 
-[OpenAdmin-client-VueJS](https://github.com/Neuethemes/OpenAdmin-client-VueJS)
+[Free VueJS Admin Dashboard (Coming Soon)](https://github.com/Neuethemes/OpenAdmin-client-VueJS)
 
-[OpenAdmin-client-React](https://github.com/Neuethemes/OpenAdmin-client-React)
+[Free React Admin Dashboard (Coming Soon)](https://github.com/Neuethemes/OpenAdmin-client-React)
 
 
 **Available Servers**
 
-[OpenAdmin-server-NodeJS](https://github.com/Neuethemes/OpenAdmin-server-NodeJS)
+[Free NodeJS Admin Dashboard](https://github.com/Neuethemes/OpenAdmin-server-NodeJS)
 
-[OpenAdmin-server-PHP](https://github.com/Neuethemes/OpenAdmin-server-PHP)
+[Free PHP Admin Dashboard (Coming Soon)](https://github.com/Neuethemes/OpenAdmin-server-PHP)
 
-[OpenAdmin-server-Python](https://github.com/Neuethemes/OpenAdmin-server-Python)
+[Free Python Admin Dashboard (Coming Soon)](https://github.com/Neuethemes/OpenAdmin-server-Python)
 
 
 **Preview**
 http://openadmin.neuethemes.net/client/html/
 
 
-**Dashboard Screenshot**
 ![OpenAdmin Dashboard](https://neuethemes.net/wp-content/uploads/01-openadmin-screenshot-dashboard-02.jpg "OpenAdmin Dashboard")
 
 
