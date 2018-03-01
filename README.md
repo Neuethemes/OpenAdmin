@@ -23,7 +23,7 @@ Do yourself a big favor and avoid creating an Admin Dashboard for your applicati
 Vue.js is an open source JavaScript framework for building UI on the web. It is a strong competitor to React and Angular. If you prefer Vue.Js, this free version of OpenAdmin Dashboard is for you.
 
 #### [Free React Admin Dashboard (Coming Soon)](https://github.com/Neuethemes/OpenAdmin-client-React)
-React is a component based library for building user interfaces for the web and mobile applications. React JS allows to build web components which you can reuse throughout your web pages. It is one of the newer libraries in the front end development field.
+React is a component based library for building user interfaces for the web and mobile applications. React JS allows to build web components which you can reuse throughout your web pages. It is one of the newer libraries in the front end development field. React’s robust nature in front end development and thriving ecosystem makes it an obvious choice for front end developers. If you have been looking for a good React Admin Dashboard Template, then you have arrived at the correct place.
 
 
 ## Available Servers
