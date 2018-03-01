@@ -14,14 +14,16 @@ http://openadmin.neuethemes.net/client/html/
 ## Available Clients
 
 #### [Free HTML5 Bootstrap4 Admin Dashboard](https://github.com/Neuethemes/OpenAdmin-client-Html)
-OpenAdmin theme template includes a static HTML + Bootstrap4 version for easy integration with other frameworks. The best option for the old school web developers!
+OpenAdmin theme includes a static HTML + Bootstrap4 version for easy integration with other frameworks. The best option for the old school web developers!
 
 #### [Free Angular Admin Dashboard](https://github.com/Neuethemes/OpenAdmin-client-Angular)
-This project was generated with Angular CLI version 1.4.5.
+Do yourself a big favor and avoid creating an Admin Dashboard for your application from the ground up. Instead, pick any of these AngularJS template and save yourself a lot of time. Rather spend all this time on building your web app and bring it to an entirely new level while the admin keeps track of everything.
 
 #### [Free VueJS Admin Dashboard (Coming Soon)](https://github.com/Neuethemes/OpenAdmin-client-VueJS)
+Vue.js is an open source JavaScript framework for building UI on the web. It is a strong competitor to React and Angular. If you prefer Vue.Js, this free version of OpenAdmin Dashboard is for you.
 
 #### [Free React Admin Dashboard (Coming Soon)](https://github.com/Neuethemes/OpenAdmin-client-React)
+React is a component based library for building user interfaces for the web and mobile applications. React JS allows to build web components which you can reuse throughout your web pages. It is one of the newer libraries in the front end development field.
 
 
 ## Available Servers
