@@ -3,8 +3,10 @@
 # OpenAdmin
 Free Premium Admin Dashboard Theme.
 
-## See Preview
+## See the Live Preview
 http://openadmin.neuethemes.net/client/html/
+
+## Overview
 
 **OpenAdmin** is the simple lightweight and fully-featured Multi-framework web dashboard application based on latest Bootstrap4, HTML5/CSS3 and uses all it's powerful features. All components included in this dashboard template has been developed to bring all the potential of HTML5 and Bootstrap plus a set of new features (JS and CSS) ideal for your next dashboard admin theme or admin web app project.
 
