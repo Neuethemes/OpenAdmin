@@ -38,6 +38,8 @@ OpenAdmin server based on NodeJS.
 #### [Free Python Admin Dashboard (Coming Soon)](https://github.com/Neuethemes/OpenAdmin-server-Python)
 
 
+## Main Dashboard Screenshot
+
 ![OpenAdmin Dashboard](https://neuethemes.net/wp-content/uploads/01-openadmin-screen-01.jpg "OpenAdmin Dashboard")
 
 
