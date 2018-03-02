@@ -1,6 +1,6 @@
 ![OpenAdmin Dashboard Banner](https://neuethemes.net/wp-content/uploads/github-slide-01.jpg "OpenAdmin Banner")
 
-# OpenAdmin
+# OpenAdmin Dashboard
 Free Premium Admin Dashboard Theme.
 
 ## See the Live Preview
@@ -8,20 +8,20 @@ http://openadmin.neuethemes.net/client/html/
 
 ## Overview
 
-**OpenAdmin** is the simple lightweight and fully-featured Multi-framework web dashboard application based on latest Bootstrap4, HTML5/CSS3 and uses all it's powerful features. All components included in this dashboard template has been developed to bring all the potential of HTML5 and Bootstrap plus a set of new features (JS and CSS) ideal for your next dashboard admin theme or admin web app project.
+**OpenAdmin Dashboard** is the simple lightweight and fully-featured Multi-framework web dashboard application based on latest Bootstrap4, HTML5/CSS3 and uses all it's powerful features. All components included in this dashboard template has been developed to bring all the potential of HTML5 and Bootstrap plus a set of new features (JS and CSS) ideal for your next dashboard admin theme or admin web app project.
 
-**OpenAdmin** Admin Dashboard was developed for all type of web applications: Single Page Application (SPA), project management system, ecommerce admin dashboard, CMS, CRM, SAAS, help desk; for personal and business purposes. It comes with lot of ready-to-use components (widgets, forms, etc). It is 100% responsive and easy customizable theme. It gives a possibility to any developer to create modern and quality web app quickly without a hassle.
+**OpenAdmin Dashboard** was developed for all type of web applications: Single Page Application (SPA), project management system, ecommerce admin dashboard, CMS, CRM, SAAS, help desk; for personal and business purposes. It comes with lot of ready-to-use components (widgets, forms, etc). It is 100% responsive and easy customizable theme. It gives a possibility to any developer to create modern and quality web app quickly without a hassle.
 
 
 ## Available Clients
 
-#### [Free HTML5 Bootstrap4 Admin Dashboard](https://github.com/Neuethemes/OpenAdmin-client-Html)
-OpenAdmin theme includes a static HTML + Bootstrap4 version for easy integration with other frameworks. This Admin template realization was used as the base of all the versions below.
+#### [Free HTML5 Bootstrap4 OpenAdmin Dashboard](https://github.com/Neuethemes/OpenAdmin-client-Html)
+OpenAdmin Dashboard theme includes a static HTML + Bootstrap4 version for easy integration with other frameworks. This Admin template realization was used as the base of all the versions below.
 
-#### [Free Angular Admin Dashboard](https://github.com/Neuethemes/OpenAdmin-client-Angular)
+#### [Free Angular OpenAdmin Dashboard](https://github.com/Neuethemes/OpenAdmin-client-Angular)
 Do yourself a big favor and avoid creating an Admin Dashboard for your application from the ground up. Instead, pick any of these Angular template and save yourself a lot of time. Rather spend all this time on building your web app and bring it to an entirely new level while the admin keeps track of everything.
 
-#### [Free React Admin Dashboard](https://github.com/Neuethemes/OpenAdmin-client-React)
+#### [Free React OpenAdmin Dashboard](https://github.com/Neuethemes/OpenAdmin-client-React)
 React is a component based library for building user interfaces for the web and mobile applications. React JS allows to build web components which can be reused throughout your web pages. It is one of the newer libraries in the front end development field. React’s robust nature in front end development and thriving ecosystem makes it an obvious choice for front end developers. So if you have been looking for a good React Admin Dashboard Template you have arrived at the correct place.
 
 #### [Free VueJS Admin Dashboard (Coming Soon)](https://github.com/Neuethemes/OpenAdmin-client-VueJS)
@@ -31,7 +31,7 @@ Vue.js is an open source JavaScript framework for building UI on the web. It is 
 ## Available Servers
 
 #### [Free NodeJS Admin Dashboard](https://github.com/Neuethemes/OpenAdmin-server-NodeJS)
-OpenAdmin server based on NodeJS.
+OpenAdmin Dashboard server based on NodeJS.
 
 #### [Free PHP Admin Dashboard (Coming Soon)](https://github.com/Neuethemes/OpenAdmin-server-PHP)
 
