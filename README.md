@@ -15,26 +15,33 @@ http://openadmin.neuethemes.net/client/html/
 
 ## Available Clients
 
+![OpenAdmin HTML client](https://neuethemes.net/wp-content/uploads/logos-tech-01-html.jpg "OpenAdmin HTML")
 #### [Free HTML5 Bootstrap4 OpenAdmin Dashboard](https://github.com/Neuethemes/OpenAdmin-client-Html)
 OpenAdmin Dashboard theme includes a static HTML + Bootstrap4 version for easy integration with other frameworks. This Admin template realization was used as the base of all the versions below.
 
+![OpenAdmin Angular client](https://neuethemes.net/wp-content/uploads/logos-tech-02-angular.jpg "OpenAdmin Angular")
 #### [Free Angular OpenAdmin Dashboard](https://github.com/Neuethemes/OpenAdmin-client-Angular)
 Do yourself a big favor and avoid creating an Admin Dashboard for your application from the ground up. Instead, pick any of these Angular template and save yourself a lot of time. Rather spend all this time on building your web app and bring it to an entirely new level while the admin keeps track of everything.
 
+![OpenAdmin React client](https://neuethemes.net/wp-content/uploads/logos-tech-03-react.jpg "OpenAdmin React")
 #### [Free React OpenAdmin Dashboard](https://github.com/Neuethemes/OpenAdmin-client-React)
 React is a component based library for building user interfaces for the web and mobile applications. React JS allows to build web components which can be reused throughout your web pages. It is one of the newer libraries in the front end development field. React’s robust nature in front end development and thriving ecosystem makes it an obvious choice for front end developers. So if you have been looking for a good React Admin Dashboard Template you have arrived at the correct place.
 
+![OpenAdmin VueJS client](https://neuethemes.net/wp-content/uploads/logos-tech-04-vue.jpg "OpenAdmin VueJS")
 #### [Free VueJS Admin Dashboard (Coming Soon)](https://github.com/Neuethemes/OpenAdmin-client-VueJS)
 Vue.js is an open source JavaScript framework for building UI on the web. It is a strong competitor to React and Angular. If you prefer Vue.Js, this free version of OpenAdmin Dashboard is for you.
 
 
 ## Available Servers
 
+![OpenAdmin NodeJS client](https://neuethemes.net/wp-content/uploads/logos-tech-05-nodejs.jpg "OpenAdmin NodeJS")
 #### [Free NodeJS Admin Dashboard](https://github.com/Neuethemes/OpenAdmin-server-NodeJS)
 OpenAdmin Dashboard server based on NodeJS.
 
+![OpenAdmin PHP client](https://neuethemes.net/wp-content/uploads/logos-tech-06-php.jpg "OpenAdmin PHP")
 #### [Free PHP Admin Dashboard (Coming Soon)](https://github.com/Neuethemes/OpenAdmin-server-PHP)
 
+![OpenAdmin Python client](https://neuethemes.net/wp-content/uploads/logos-tech-07-phyton.jpg "OpenAdmin Python")
 #### [Free Python Admin Dashboard (Coming Soon)](https://github.com/Neuethemes/OpenAdmin-server-Python)
 
 
