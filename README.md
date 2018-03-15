@@ -1,4 +1,4 @@
-![OpenAdmin Dashboard Banner](https://neuethemes.net/wp-content/uploads/github-slide-01.jpg "OpenAdmin Banner")
+![OpenAdmin Dashboard Banner](https://neuethemes.net/wp-content/uploads/github-slide-02.jpg "OpenAdmin Banner")
 
 # OpenAdmin Dashboard
 Free Premium Admin Dashboard Theme.
