@@ -85,7 +85,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam iaculis lorem vit
 - toastr notifications;
 - 3 nested menu levels;
 
-
+![divider](https://neuethemes.net/wp-content/uploads/transparent-20.png "divider")
 **Included**
 - Dashboard;
 - Charts;
@@ -95,8 +95,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam iaculis lorem vit
 - All Bootstrap UI elements;
 - Forms;
 
-
+![divider](https://neuethemes.net/wp-content/uploads/transparent-20.png "divider")
 **Credits**
 - Chart.js http://www.chartjs.org/
 - Fontawesome http://fontawesome.io/
 - Toastr https://github.com/CodeSeven/toastr
+
+![divider](https://neuethemes.net/wp-content/uploads/transparent-20.png "divider")
