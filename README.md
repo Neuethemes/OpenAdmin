@@ -23,7 +23,7 @@ http://openadmin.neuethemes.net/client/html/
 #### [Free HTML5 Bootstrap4 OpenAdmin Dashboard](https://github.com/Neuethemes/OpenAdmin-client-Html)
 OpenAdmin Dashboard theme includes a static HTML + Bootstrap4 version for easy integration with other frameworks. This Admin template realization was used as the base of all the versions below.
 
-<p><img align="left" src="https://neuethemes.net/wp-content/uploads/transparent-20.png" alt="OpenAdmin HTML"></p>
+![divider](https://neuethemes.net/wp-content/uploads/transparent-20.png "divider")
 
 [<img align="left" src="https://neuethemes.net/wp-content/uploads/logos-tech-02-angular.jpg" alt="OpenAdmin Angular">](https://github.com/Neuethemes/OpenAdmin-client-Angular)
 
