@@ -1,6 +1,6 @@
 ![OpenAdmin Dashboard Banner](https://neuethemes.net/wp-content/uploads/github-slide-02.jpg "OpenAdmin Banner")
 
-# OpenAdmin Dashboard &nbsp; [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20the%20free%20multi-framework%20Admin%20Dashboard%20theme%20&url=https://neuethemes.net/portfolio/openadmin-dashboard&via=the_neuethemes&hashtags=admin,dashboard,html5,css3,angular,react) &nbsp;
+# OpenAdmin Dashboard &nbsp; [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20the%20free%20multi-framework%20Admin%20Dashboard%20theme%20&url=https://github.com/Neuethemes/OpenAdmin&via=the_neuethemes&hashtags=admin,dashboard,html5,css3,angular,react) &nbsp;
 
 Free Premium Admin Dashboard Theme.
 
