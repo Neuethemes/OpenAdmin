@@ -1,7 +1,13 @@
 ![OpenAdmin Dashboard Banner](https://neuethemes.net/wp-content/uploads/github-slide-02.jpg "OpenAdmin Banner")
 
-# OpenAdmin Dashboard
+# OpenAdmin Dashboard &nbsp; [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20the%20%20free%20multi-framework%20Admin%20Dashboard%20theme%20&url=https://neuethemes.net/portfolio/openadmin-dashboard&via=the_neuethemes&hashtags=admin,dashboard,html5,css3,angular,react) &nbsp;
+
 Free Premium Admin Dashboard Theme.
+
+![license](https://img.shields.io/packagist/l/doctrine/orm.svg)
+![price](https://img.shields.io/badge/price-FREE-0098f7.svg)
+[![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/the_neuethemes)
+
 
 ### Sub-Repositories
 [HTML](https://github.com/Neuethemes/OpenAdmin-client-Html) | [Angular](https://github.com/Neuethemes/OpenAdmin-client-Angular) | [React](https://github.com/Neuethemes/OpenAdmin-client-React) | [VueJS](https://github.com/Neuethemes/OpenAdmin-client-VueJS) | [NodeJS](https://github.com/Neuethemes/OpenAdmin-server-NodeJS) | [Python](https://github.com/Neuethemes/OpenAdmin-server-Python) | [PHP](https://github.com/Neuethemes/OpenAdmin-server-PHP)
@@ -77,10 +83,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam iaculis lorem vit
 
 
 ## Built With
-[Bootstrap](https://getbootstrap.com/);
-[Angular](https://angular.io/);
-[React](https://reactjs.org/);
-[Fontawesome](https://fontawesome.com/).
+- [Bootstrap](https://getbootstrap.com/);
+- [Angular](https://angular.io/);
+- [React](https://reactjs.org/);
+- [Fontawesome](https://fontawesome.com/).
 
 ![divider](https://neuethemes.net/wp-content/uploads/transparent-30.png "divider")
 
@@ -126,6 +132,7 @@ All contributions are more than welcomed. Contributions may close an issue, fix 
 - Follow [@the_neuethemes on Twitter](https://twitter.com/the_neuethemes);
 - Follow [Neuethemes on Facebook](https://www.facebook.com/neuethemes/);
 - Check our [Official Website](https://neuethemes.net)
+- Contact us [via email](info@neuethemes.net)
 
 ## Copyrights and License
 Copyright 2018 Neuethemes. Code released under [MIT](https://opensource.org/licenses/MIT) license.
