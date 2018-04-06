@@ -1,4 +1,4 @@
-![OpenAdmin Dashboard Banner](https://neuethemes.net/wp-content/uploads/github-slide-02.jpg "OpenAdmin Banner")
+![OpenAdmin Dashboard Banner](https://neuethemes.net/wp-content/uploads/github-slide-03.jpg "OpenAdmin Banner")
 
 # OpenAdmin Dashboard &nbsp; [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20the%20free%20multi-framework%20Admin%20Dashboard%20theme%20&url=https://github.com/Neuethemes/OpenAdmin&via=the_neuethemes&hashtags=admin,dashboard,html5,css3,angular,react) &nbsp;
 
@@ -8,6 +8,7 @@ Free Premium Admin Dashboard Theme.
 ![price](https://img.shields.io/badge/price-FREE-0098f7.svg)
 [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/the_neuethemes)
 
+![divider](https://neuethemes.net/wp-content/uploads/transparent-20.png "divider")
 
 ### Sub-Repositories
 [HTML](https://github.com/Neuethemes/OpenAdmin-client-Html) | [Angular](https://github.com/Neuethemes/OpenAdmin-client-Angular) | [React](https://github.com/Neuethemes/OpenAdmin-client-React) | [VueJS](https://github.com/Neuethemes/OpenAdmin-client-VueJS) | [NodeJS](https://github.com/Neuethemes/OpenAdmin-server-NodeJS) | [Python](https://github.com/Neuethemes/OpenAdmin-server-Python) | [PHP](https://github.com/Neuethemes/OpenAdmin-server-PHP)
