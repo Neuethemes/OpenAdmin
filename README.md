@@ -24,7 +24,7 @@ http://openadmin.neuethemes.net/client/html/
 
 ![divider](https://neuethemes.net/wp-content/uploads/transparent-30.png "divider")
 
-### Installing
+## Installation
 Proceed to choosen Client / Server Sub-repository and follow installation steps.
 
 ## Available Clients
