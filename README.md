@@ -27,7 +27,9 @@ http://openadmin.neuethemes.net/client/html/
 ![divider](https://neuethemes.net/wp-content/uploads/transparent-30.png "divider")
 
 ## Installation
-Proceed to choosen Client / Server Sub-repository and follow installation steps.
+Proceed to choosen Client / Server Sub-repository and follow recommended installation steps.
+
+![divider](https://neuethemes.net/wp-content/uploads/transparent-20.png "divider")
 
 ## Available Clients
 
@@ -131,11 +133,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam iaculis lorem vit
 ## Contributing
 All contributions are more than welcomed. Contributions may close an issue, fix a bug (reported or not reported), add new components, improve the existing code, add new feature, and so on.
 
+![divider](https://neuethemes.net/wp-content/uploads/transparent-20.png "divider")
+
 ## Community
 - Follow [@the_neuethemes on Twitter](https://twitter.com/the_neuethemes);
 - Follow [Neuethemes on Facebook](https://www.facebook.com/neuethemes/);
 - Check our [Official Website](https://neuethemes.net)
 - Contact us [via email](info@neuethemes.net)
+
+![divider](https://neuethemes.net/wp-content/uploads/transparent-20.png "divider")
 
 ## Copyrights and License
 Copyright 2018 Neuethemes. Code released under [MIT](https://opensource.org/licenses/MIT) license.
