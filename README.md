@@ -3,6 +3,9 @@
 # OpenAdmin Dashboard
 Free Premium Admin Dashboard Theme.
 
+### Sub-Repositories
+[HTML](https://github.com/Neuethemes/OpenAdmin-client-Html) | [Angular](https://github.com/Neuethemes/OpenAdmin-client-Angular) | [React](https://github.com/Neuethemes/OpenAdmin-client-React) | [VueJS](https://github.com/Neuethemes/OpenAdmin-client-VueJS) | [NodeJS](https://github.com/Neuethemes/OpenAdmin-server-NodeJS) | [Python](https://github.com/Neuethemes/OpenAdmin-server-Python) | [PHP](https://github.com/Neuethemes/OpenAdmin-server-PHP)
+
 ## See the Live Preview
 http://openadmin.neuethemes.net/client/html/
 
@@ -10,11 +13,12 @@ http://openadmin.neuethemes.net/client/html/
 
 ## Overview
 
-**OpenAdmin Dashboard** is the simple lightweight and fully-featured Multi-framework web dashboard application based on latest Bootstrap4, HTML5/CSS3 and uses all it's powerful features. All components included in this dashboard template has been developed to bring all the potential of HTML5 and Bootstrap plus a set of new features (JS and CSS) ideal for your next dashboard admin theme or admin web app project.
-
-**OpenAdmin Dashboard** was developed for all type of web applications: Single Page Application (SPA), project management system, ecommerce admin dashboard, CMS, CRM, SAAS, help desk; for personal and business purposes. It comes with lot of ready-to-use components (widgets, forms, etc). It is 100% responsive and easy customizable theme. It gives a possibility to any developer to create modern and quality web app quickly without a hassle.
+**OpenAdmin Dashboard** is the simple lightweight and fully-featured Multi-framework web dashboard application based on latest Bootstrap4, HTML5/CSS3 and uses all it's powerful features. All components included in this dashboard template has been developed to bring all the potential of HTML5 and Bootstrap plus a set of new features (JS and CSS) ideal for your next dashboard admin theme or admin web app project.OpenAdmin Dashboard was developed for all type of web applications: Single Page Application (SPA), project management system, ecommerce admin dashboard, CMS, CRM, SAAS, help desk; for personal and business purposes. It comes with lot of ready-to-use components (widgets, forms, etc). It is 100% responsive and easy customizable theme. It gives a possibility to any developer to create modern and quality web app quickly without a hassle.
 
 ![divider](https://neuethemes.net/wp-content/uploads/transparent-30.png "divider")
+
+### Installing
+Proceed to choosen Client / Server repository and follow installation steps.
 
 ## Available Clients
 
@@ -71,6 +75,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam iaculis lorem vit
 
 ![divider](https://neuethemes.net/wp-content/uploads/transparent-30.png "divider")
 
+
+## Built With
+[Bootstrap](https://getbootstrap.com/);
+[Angular](https://angular.io/);
+[React](https://reactjs.org/);
+[Fontawesome](https://fontawesome.com/).
+
+![divider](https://neuethemes.net/wp-content/uploads/transparent-30.png "divider")
+
 ## Main Dashboard Screenshot
 
 ![OpenAdmin Dashboard](https://neuethemes.net/wp-content/uploads/01-openadmin-screen-01.jpg "OpenAdmin Dashboard")
@@ -106,3 +119,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam iaculis lorem vit
 
 ![divider](https://neuethemes.net/wp-content/uploads/transparent-20.png "divider")
 
+## Contributing
+All contributions are more than welcomed. Contributions may close an issue, fix a bug (reported or not reported), add new components, improve the existing code, add new feature, and so on.
+
+## Community
+- Follow [@the_neuethemes on Twitter](https://twitter.com/the_neuethemes);
+- Follow [Neuethemes on Facebook](https://www.facebook.com/neuethemes/);
+- Check our [Official Website](https://neuethemes.net)
+
+## Copyrights and License
+Copyright 2018 Neuethemes. Code released under [MIT](https://opensource.org/licenses/MIT) license.
