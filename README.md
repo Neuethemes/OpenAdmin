@@ -16,7 +16,7 @@ Free Premium Admin Dashboard Theme.
 ![divider](https://neuethemes.net/wp-content/uploads/transparent-20.png "divider")
 
 ## See the Live Preview
-http://openadmin.neuethemes.net/client/html/
+https://neuethemes.net/preview/html/openadmin/
 
 ![divider](https://neuethemes.net/wp-content/uploads/transparent-30.png "divider")
 
